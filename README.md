@@ -1,6 +1,7 @@
 # Ai Image Generator
 - AI image generator using completely free! 
 - we will use huggingface api (https://huggingface.co/) to create our own ai image generator app❗️
+- GitHub pages: https://ankit-saha-iiitbbsr.github.io/Ai-image-generator/
 
 ## Warning
 - You need to get your own api key and replace it in script.js file on line 1 :
